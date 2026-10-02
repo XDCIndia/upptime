@@ -13,8 +13,6 @@ sites:
   - name: Hacker News
     url: https://news.ycombinator.com
 
-  - name: Secret Site
-    url: $SECRET_SITE
 
 status-website:
   baseUrl: /upptime
