@@ -12,7 +12,8 @@ sites:
 
   - name: Hacker News
     url: https://news.ycombinator.com
-
+  - name: XDCRPC
+    url: https://xdcrpc.com
 
 status-website:
   baseUrl: /upptime
